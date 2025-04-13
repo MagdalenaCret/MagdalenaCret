@@ -68,13 +68,11 @@ When I'm not coding, you can find me:
 ## 📫 Connect With Me
 
 <div>
- <a href="mailto:magdalenacret15@yahoo.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
   <a href="https://github.com/MagdalenaCret">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
+📧 Email: magdalenacret15@yahoo.com
 
 ## 📄 Resume
 
