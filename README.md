@@ -81,8 +81,8 @@ When I'm not coding, you can find me:
 Want to know more about my experience and qualifications? Check out my full CV:
 
 <div>
-  <a href="YOUR_CV_LINK_HERE">
-    <img src="https://img.shields.io/badge/View%20CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
+  <a href="https://github.com/MagdalenaCret/MagdalenaCret/blob/cv/CV_MariaMagdalenaCret.pdf">
+    <img src="https://img.shields.io/badge/View%20CV-4285F4?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
