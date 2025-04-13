@@ -10,7 +10,7 @@ I'm a passionate Computer Science student with technical skills and a drive for 
 - 💡 Focused on creating efficient, elegant software solutions
 - 🚀 Committed to growth, learning, and excellence
 
-## 🚀 My Tech Stack
+## 🚀 My Tech Stack (What I've Used)
 
 ### Languages
 <div>
@@ -21,7 +21,9 @@ I'm a passionate Computer Science student with technical skills and a drive for 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assembly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VHDL-007396?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VHDL-007396?style=for-the-badge&logo=vhdl&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elm-1293D8?style=for-the-badge&logo=elm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white"/>
 </div>
 
 ### Web Development
@@ -49,7 +51,6 @@ I'm a passionate Computer Science student with technical skills and a drive for 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
 </div>
-
 
 ## 🌈 Interests & Hobbies
 
