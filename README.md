@@ -64,10 +64,7 @@ When I'm not coding, you can find me:
 - 🏠 Exploring interior design concepts
 - 👥 Connecting and communicating with people
 - 🧠 Studying psychology and human behavior
-- 🏠 Exploring interior design concepts
-- 👥 Connecting and communicating with people
-- 🧠 Studying psychology and human behavior
-
+  
 ## 📫 Connect With Me
 
 <div>
