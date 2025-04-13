@@ -87,7 +87,6 @@ Want to know more about my experience and qualifications? Check out my full CV:
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MagdalenaCret&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=MagdalenaCret&color=blueviolet&style=flat-square&label=Profile+Views&base=0" alt="Profile Views Counter"/>
 </p>
-
 ⭐️ From [MagdalenaCret](https://github.com/MagdalenaCret)
