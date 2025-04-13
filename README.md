@@ -50,39 +50,6 @@ I'm a passionate Computer Science student with technical skills and a drive for 
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
 </div>
 
-### Skills Proficiency
-
-<div align="left">
-  <p><strong>C</strong></p>
-  <img src="https://progress-bar.dev/85/?width=400&color=996B1F" />
-  
-  <p><strong>C++</strong></p>
-  <img src="https://progress-bar.dev/80/?width=400&color=996B1F" />
-  
-  <p><strong>Java</strong></p>
-  <img src="https://progress-bar.dev/75/?width=400&color=996B1F" />
-  
-  <p><strong>VHDL</strong></p>
-  <img src="https://progress-bar.dev/85/?width=400&color=996B1F" />
-  
-  <p><strong>Assembly x86</strong></p>
-  <img src="https://progress-bar.dev/70/?width=400&color=996B1F" />
-  
-  <p><strong>JavaScript</strong></p>
-  <img src="https://progress-bar.dev/40/?width=400&color=996B1F" />
-  
-  <p><strong>Python</strong></p>
-  <img src="https://progress-bar.dev/40/?width=400&color=996B1F" />
-  
-  <p><strong>SQL</strong></p>
-  <img src="https://progress-bar.dev/70/?width=400&color=996B1F" />
-  
-  <p><strong>HTML</strong></p>
-  <img src="https://progress-bar.dev/65/?width=400&color=996B1F" />
-  
-  <p><strong>CSS</strong></p>
-  <img src="https://progress-bar.dev/60/?width=400&color=996B1F" />
-</div>
 
 ## 🌈 Interests & Hobbies
 
