@@ -53,19 +53,6 @@ I'm a passionate Computer Science student with technical skills and a drive for 
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
 </div>
-
-## 🌈 Interests & Hobbies
-
-When I'm not coding, you can find me:
-- 🏃‍♀️ Running to stay active
-- 🧗‍♀️ Hiking and exploring nature
-- 🧘‍♀️ Practicing yoga
-- 📚 Reading and expanding my knowledge
-- 🌍 Experiencing different cultures through travel
-- 🍳 Experimenting with new recipes
-- 🏠 Exploring interior design concepts
-- 👥 Connecting and communicating with people
-- 🧠 Studying psychology and human behavior
   
 ## 📫 Connect With Me
 
